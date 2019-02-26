@@ -1,6 +1,6 @@
 Este es un proyecto de prueba sobre la automatización de Twitter en Python
 usando la librería Tweepy. El Bot para el que se diseñaron las funciones trataba
-de imitar el comportamiento de un fan del Real Madrid, como se ve reflejado en
+de imitar el comportamiento de un fan del fútbol, como se ve reflejado en
 el módulo dialogo y user_data.
 
 El módulo funciones implementa diversas funciones que facilitan mucho el trabajo
